@@ -5,3 +5,6 @@
 
 ## How to format wordlist?
 ### "Question: first answer, secound answer, third answer", eg. "What's capital of Switzerland?: Bern, bern, BERN"
+
+# Showcase:
+![showcase](pic-full-220617-1929-49.png)
