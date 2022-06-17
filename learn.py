@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from random import sample
 from sys import argv
 
