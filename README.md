@@ -1,10 +1,15 @@
-# Simple learning program.
+# LEARN
+## Simple learning program.
 
-## Usage:
-### `./lern.py "formated list with words to learn"`, eg. `./learn.py "wordlist.txt"`
+# Usage:
+	python learn.py "formated list with words to learn"
+# Example:
+	python learn.py "wordlist.txt"
 
+# FAQ:
 ## How to format wordlist?
-### "Question: first answer, secound answer, third answer", eg. "What's capital of Switzerland?: Bern, bern, BERN"
+## "Question: first answer, secound answer, third answer"
+### Example: "What's capital of Switzerland?: Bern, bern, BERN"
 
 # Showcase:
-![showcase](pic-full-220617-1929-49.png)
+![showcase](README/showcase.png)
