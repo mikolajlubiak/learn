@@ -1,5 +1,5 @@
 # LEARN
-## Simple learning program.
+## Simple learning, flashcards like program.
 
 # Usage:
 	python learn.py "formated list with words to learn"
